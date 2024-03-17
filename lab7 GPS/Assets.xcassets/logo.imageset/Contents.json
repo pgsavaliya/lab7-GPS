@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "transparent-google-maps-logo-large-detailed-map-with-red-pin-pointing65cf76d8a31725.237996761708095192668.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "transparent-google-maps-logo-large-detailed-map-with-red-pin-pointing65cf76d8a31725.237996761708095192668@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "transparent-google-maps-logo-large-detailed-map-with-red-pin-pointing65cf76d8a31725.237996761708095192668@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
